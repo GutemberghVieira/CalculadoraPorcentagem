@@ -1,0 +1,18 @@
+
+
+Software "Calculadora de porcentagem de juros e descontos"
+
+1.Passo
+Peça para o usuário digitar um valor
+ 
+2.Passo
+Guarde o valor 
+
+3.Passo
+Peça para o usuário digitar porcentagem do valor do desconto e juros
+
+4.Passo
+Guarde o valor
+
+5.Passo
+Calcule o valor da porcentagem e desconto e mostre o resultado na tela
